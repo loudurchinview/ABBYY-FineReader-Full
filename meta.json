@@ -1,0 +1,26 @@
+{
+  "repo": "abbyy-finereader-full",
+  "product": "ABBYY FineReader Full",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "notes-productivity",
+  "topics": [
+    "abbyy-finereader-full",
+    "abbyy-desktop",
+    "abbyy-windows",
+    "note-taking",
+    "task-management",
+    "knowledge-base",
+    "markdown-notes",
+    "workspace-sync",
+    "desktop-productivity",
+    "windows-notes",
+    "project-planning",
+    "wiki-tools",
+    "daily-workflow"
+  ],
+  "site": "zentool.art"
+}
